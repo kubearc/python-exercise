@@ -1,5 +1,4 @@
 
-```markdown
 # 📝 String Formatter (Python Task)
 
 This is a simple Python program to practice **string functions**.
@@ -32,12 +31,6 @@ Split into words: \['Python', 'is', 'Fun']
 
 ````
 
----
-
-
-````
-
----
 
 ## 🎯 Learning Goals
 
