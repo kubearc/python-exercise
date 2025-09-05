@@ -1,5 +1,4 @@
 
-```markdown
 # 📝 String Playground (Python Assignment)
 
 This program is a practice set to explore different **Python string functions** such as `format()`, `center()`, `partition()`, `join()`, indexing, slicing, and more.  
@@ -60,12 +59,7 @@ From the user’s name, print:
 * First character
 * Last character
 * Middle part (excluding first & last)
-
 ---
-
-
----
-
 ## ✅ Example Output
 
 ```
@@ -84,13 +78,7 @@ First character: A
 Last character: e
 Middle part: lic
 
-
-
----
-
-
----
-
+```
 ## 🎯 Learning Goals
 
 * Using `format()` for formatted output
@@ -99,6 +87,4 @@ Middle part: lic
 * Joining lists into strings with `join()`
 * Indexing & slicing strings
 * Applying `.count()`, `.startswith()`, `.endswith()`
-
-```
 
