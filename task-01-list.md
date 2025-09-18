@@ -1,13 +1,12 @@
 
-````markdown
-# 🐍 Python Practice Task - List Manager
+# Python Practice Task - List Manager
 
 This is a beginner-friendly Python program to practice **list operations**.  
 The program allows the user to input numbers and perform various list manipulations.
 
 ---
 
-## 📌 Features
+## Features
 
 1. **Input**
    - Take a list of 5 numbers as input from the user.
@@ -26,7 +25,7 @@ The program allows the user to input numbers and perform various list manipulati
 ---
 
 
-## 💻 Sample Run
+## Sample Run
 
 ```
 Enter 5 numbers separated by space: 10 5 20 15 8
@@ -55,7 +54,7 @@ Is 20 in the list? True
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * How to take **list input** from the user.
 * Using built-in functions: `sum()`, `max()`, `min()`.
