@@ -21,24 +21,5 @@ Write a Python program using **NumPy** that demonstrates:
    - The last **two elements**.  
    - Elements from index `1` to `3`.  
 
----
 
-## Solution Code
-```python
-import numpy as np
-
-# 1. Create a 1D NumPy array with float data type
-arr = np.array([10, 20, 30, 40, 50], dtype=float)
-print("Original Array:", arr)
-print("Data Type:", arr.dtype)
-
-# 2. Indexing
-print("\nFirst Element:", arr[0])
-print("Last Element:", arr[-1])
-
-# 3. Slicing
-print("\nFirst 3 Elements:", arr[:3])
-print("Last 2 Elements:", arr[-2:])
-print("Elements from index 1 to 3:", arr[1:4])
-````
 ✅ This task helps practice **NumPy array basics**, including **data types, indexing, and slicing**.
