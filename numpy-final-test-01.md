@@ -82,7 +82,7 @@ Column-wise split:
 
 ---
 
-✅ This **Final Task 2** gives a full revision of:
+✅ This **Final Task** gives a full revision of:
 
 * **Reshaping**
 * **Indexing & slicing**
