@@ -1,11 +1,11 @@
-```markdown
+
 # Python Practice Task - Student Score Manager
 
 A beginner-friendly Python practice task to understand and use **dictionaries** in Python.
 
 ---
 
-## 📝 Task Description
+## Task Description
 
 Write a Python program that:
 
@@ -20,11 +20,9 @@ Write a Python program that:
    - Find and print the **highest score** with the student’s name.  
 
 ---
-```
-## 💻 Example Run
+##  Example Run
 
 ```
-
 Enter student 1 name: Alice
 Enter Alice's score: 85
 Enter student 2 name: Bob
@@ -38,11 +36,11 @@ All Students: \['Alice', 'Bob', 'Charlie']
 All Scores: \[85, 92, 78]
 Top Scorer: Bob with 92
 
-````
+
 ```
 ---
 
-## 🎯 Learning Outcome
+## Learning Outcome
 
 * Learn how to create and use **dictionaries** in Python.
 * Understand how to **store key-value pairs**.
