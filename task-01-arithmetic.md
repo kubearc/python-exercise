@@ -1,6 +1,5 @@
 
-```markdown
-# 🔢 Python Practice Task - Arithmetic Calculator
+#  Python Practice Task - Arithmetic Calculator
 
 This is a simple Python practice task to understand and use **arithmetic operators**.
 
@@ -22,7 +21,7 @@ Write a Python program that:
 
 ---
 
-## 💡 Example Output
+## Example Output
 
 ```
 
@@ -36,21 +35,6 @@ Arithmetic Operations:
 15 / 4 = 3.75
 15 % 4 = 3
 
-```
-
----
-
-## 🎯 Objective
-
-The goal of this task is to practice **basic arithmetic operators in Python** and understand how they work with user input.
-
----
-
-## 🚀 Next Steps
-
-- Try with different input values.
-- Check how the program behaves with **negative numbers** and **decimals**.
-- Modify the program to show results in a **formatted way** (e.g., using f-strings).
 ```
 
 ---
