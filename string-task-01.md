@@ -1,11 +1,11 @@
 
-# 📝 String Formatter (Python Task)
+## String Formatter (Python Task)
 
 This is a simple Python program to practice **string functions**.
 
 ---
 
-## 📌 Task Description
+##  Task Description
 
 Write a Python program that:
 
@@ -30,15 +30,3 @@ Replaced spaces: Python-is-Fun
 Split into words: \['Python', 'is', 'Fun']
 
 ````
-
-
-## 🎯 Learning Goals
-
-* Using `.upper()` to convert text to uppercase
-* Using `.lower()` to convert text to lowercase
-* Using `.replace()` to substitute characters
-* Using `.split()` to break a string into words
-
----
-
-```
