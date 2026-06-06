@@ -54,7 +54,3 @@ fee = 4999.99
 
 Print its data type and value:
 
-```python
-print("Fee:", fee)
-print("Fee Data Type:", type(fee))
-```
