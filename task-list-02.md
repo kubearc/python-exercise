@@ -7,7 +7,7 @@ Write a Python program to **demonstrate different list methods** step by step.
 
 ## Requirements
 
-1. Create a list of numbers and a list of strings.
+1. Create a list of numbers and a list of strings.Number list contains values : 10,20,30,40 and String list contains : "apple","banana".
 2. Perform the following operations:
    - `append()` → Add a new element at the end.
    - `insert()` → Add an element at a specific index.
