@@ -1,5 +1,5 @@
 
-# 📘 Python Tuple Practice
+#  Python Tuple Practice
 
 ##  Task 1: Basic Tuple Operations
 
