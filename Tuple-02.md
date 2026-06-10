@@ -36,11 +36,3 @@ Joined tuple: ('cat', 'dog', 'rabbit', 'red', 'blue')
 Animals repeated 2 times: ('cat', 'dog', 'rabbit', 'cat', 'dog', 'rabbit')
 Colors repeated 3 times: ('red', 'blue', 'red', 'blue', 'red', 'blue')
 ```
-
----
-
-## What You Learned
-
-* Looping through tuples using **for** and **while**.
-* Joining tuples using the `+` operator.
-* Multiplying tuples using the `*` operator.
