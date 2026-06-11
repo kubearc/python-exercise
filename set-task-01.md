@@ -17,7 +17,7 @@ This exercise covers **set creation, updating, removing, and performing set oper
 
 3. **Remove Elements**
 
-   * Remove `"banana"` using `.remove()`.
+   * Remove `"banana"` .
    * Try removing `"kiwi"` safely using `.discard()`.
 
 4. **Set Operations**
@@ -52,14 +52,3 @@ Difference: {'apple', 'grapes', 'cherry', 'orange'}
 Length of fruits: 5
 Tropical after clear: set()
 ```
-
----
-
-## 📘 Concepts Covered
-
-✔ Set creation
-✔ Adding elements (`add`, `update`)
-✔ Removing elements (`remove`, `discard`)
-✔ Union, Intersection, Difference
-✔ Length of set
-✔ Clearing a set
