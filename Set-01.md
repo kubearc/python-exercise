@@ -1,11 +1,6 @@
-```markdown
-# Python Practice Task - Set Operations Playground
+## Python Practice Task - Set Operations Playground
 
-A beginner-friendly Python practice task to explore **set operations**.
-
----
-
-## 📝 Task Description
+##  Task Description
 
 Write a Python program that:
 
@@ -17,8 +12,7 @@ Write a Python program that:
    - **Symmetric Difference** → Elements in either set but not both.
 
 ---
-```
-## 💻 Example Run
+## Example Run
 
 
 ```
@@ -32,10 +26,3 @@ Difference (First - Second): {1, 2}
 Symmetric Difference: {1, 2, 5, 6}
 
 ````
-
-## 🎯 Learning Outcome
-
-* Understand the concept of **sets** in Python.
-* Practice basic **set operations**: union, intersection, difference, and symmetric difference.
-* Learn how sets automatically remove duplicate elements.
-
