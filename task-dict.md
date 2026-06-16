@@ -30,10 +30,10 @@ Enter Bob's score: 92
 Enter student 3 name: Charlie
 Enter Charlie's score: 78
 
-\--- Student Records ---
+--- Student Records ---
 Student Records: {'Alice': 85, 'Bob': 92, 'Charlie': 78}
-All Students: \['Alice', 'Bob', 'Charlie']
-All Scores: \[85, 92, 78]
+All Students: ['Alice', 'Bob', 'Charlie']
+All Scores: [85, 92, 78]
 Top Scorer: Bob with 92
 
 
