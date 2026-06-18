@@ -1,9 +1,8 @@
-```markdown
-#  Python Practice Task
+##  Python Practice Task
 
 ## Task: Calculator using Functions
 
-### 📌 Problem Statement
+###  Problem Statement
 Write a Python program that:
 
 1. Defines the following functions:
@@ -17,21 +16,11 @@ Write a Python program that:
    - Ask the user to choose an operation (`+`, `-`, `*`, `/`).  
    - Call the respective function and print the result.  
 
----
-```
 ### 💻 Example Output
 ```
 
 Enter first number: 12
 Enter second number: 4
-Choose operation (+, -, \*, /): \*
+Choose operation (+, -, \*, /): 
 
-Result: 12 \* 4 = 48
-
-````
-### 🎯 Learning Outcome
-
-* Understand how to **define and use functions** in Python.
-* Learn to handle **basic arithmetic operations**.
-* Practice **user input handling** and conditional statements.
-* Learn to manage **error cases** (like division by zero).
+Result: 12 * 4 = 48
