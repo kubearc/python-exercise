@@ -1,4 +1,3 @@
-```markdown
 # Python Practice Task  
 
 ## Task: Bank Account Management  
