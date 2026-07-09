@@ -3,9 +3,7 @@
 
 This is a simple Python practice task to understand and use **arithmetic operators**.
 
----
-
-## 📝 Task Description
+##  Task Description
 
 Write a Python program that:
 
