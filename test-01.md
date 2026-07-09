@@ -1,6 +1,4 @@
-
-
-# 🐍 Simple Python Task
+## Simple Python Task
 
 ## Task: Basic Student Score Program
 
@@ -50,6 +48,3 @@ After appending: [35, 45, 50]
 Average: 43.33
 Result: Pass
 ```
-
----
-
