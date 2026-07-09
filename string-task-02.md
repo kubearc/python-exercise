@@ -3,39 +3,28 @@
 
 This program is a practice set to explore different **Python string functions** such as `format()`, `center()`, `partition()`, `join()`, indexing, slicing, and more.  
 
----
-
 ##  Tasks
 
-### **1. Ask the user for their **name** and **age**, and print:  
+### 1. Ask the user for their **name** and **age**, and print:  
 ```
 
 My name is Alice and I am 20 years old.
 
 ```
-
----
-
-### **2. Take the user’s name and print it **centered in 30 spaces**, padded with `*`.  
+### 2. Take the user’s name and print it **centered in 30 spaces**, padded with `*`.  
 ```
 
 ***********Alice***********\*
 
 ```
-
----
-
-### **3. Ask the user to enter a sentence. Split it into three parts based on the **first space**.  
+### 3. Ask the user to enter a sentence. Split it into three parts based on the **first space**.  
 ```
 
 Input: "Python is awesome"
 Output: ('Python', ' ', 'is awesome')
 
 ````
-
----
-
-### **4. Take a list of words and join with -:  
+### 4. Take a list of words and join with -:  
 ```python
 ["Python", "is", "fun"]
 ````
@@ -43,15 +32,12 @@ Output: ('Python', ' ', 'is awesome')
 ```
 Python-is-fun
 ```
-
----
-
-### **5. From the user’s name, print:
+### 5. From the user’s name, print:
 
 * First character
 * Last character
 * Middle part (excluding first & last)
----
+  
 ##  Example Output
 
 ```
