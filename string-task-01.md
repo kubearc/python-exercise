@@ -1,9 +1,6 @@
-
 ## String Formatter (Python Task)
 
 This is a simple Python program to practice **string functions**.
-
----
 
 ##  Task Description
 
@@ -16,9 +13,7 @@ Write a Python program that:
    - The sentence with all spaces replaced by `-`  
    - The sentence split into words  
 
----
-
-## ✅ Example Output
+##  Example Output
 
 ```
 
