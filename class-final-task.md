@@ -1,4 +1,4 @@
-# Python Practice Task  
+## Python Practice Task  
 
 ## Task: Bank Account Management  
 
@@ -24,11 +24,7 @@ Write a Python program that simulates a simple **bank account system** using **c
    - Create an object of `BankAccount`.  
    - Perform deposit, withdrawal, and display balance operations.  
 
----
-
-### 🔎 Example Output  
-
-```
+### Example Output  
 ```
 Account Holder: Alice
 Initial Balance: 0
@@ -45,8 +41,7 @@ Insufficient balance!
 Final Balance: 300
 
 ````
-```
-### 💡 Hint
+###  Hint
 
 * Use `self` to access attributes inside the class.
 * Always check for sufficient balance before withdrawing.
