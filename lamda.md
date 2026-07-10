@@ -1,10 +1,6 @@
-
-````markdown
-# Python Lambda Function Example
+## Python Lambda Function Example
 
 This example shows the difference between a **normal function** (using `def`) and a **lambda function** in Python.
-
----
 
 ## Code Example
 
@@ -17,9 +13,7 @@ def add(x, y):
 add_lambda = lambda x, y: x + y
 
 print(add_lambda(5, 3))  # Output: 8
-````
-
----
+```
 
 ## Explanation
 
@@ -46,7 +40,7 @@ add_lambda(5, 3)  # ➝ 8
 
 ---
 
-## ✅ Key Points
+## Key Points
 
 * `def` → Used for larger, reusable, and complex functions.
 * `lambda` → Best for short, one-time, inline functions.
@@ -54,7 +48,7 @@ add_lambda(5, 3)  # ➝ 8
 
 ---
 
-## 🎯 Output
+##  Output
 
 ```
 8
